@@ -1,0 +1,9 @@
+# root level gitignore
+# used in conjuction with pregenerated Unity .gitignore
+# that only works in project root
+
+# IDE Settings
+.vscode
+
+# Misc
+.DS_Store
