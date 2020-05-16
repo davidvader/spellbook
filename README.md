@@ -12,9 +12,11 @@ Install [Unity 2019.3](https://unity3d.com/get-unity/download/archive).
 
 ## Run Spellbook
 
-1. From within Unity, Open `/spellbook` directory as an existing project
+1. Clone this repository.
 
-1. Select `Open Scene` > `Spellbook.scene`
+1. From within Unity, Open `/Spellbook` directory as an existing project.
+
+1. Select `File` > `Open Scene` > `Scenes/Spellbook.unity`.
 
 ## Development Practices
 
