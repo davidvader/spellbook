@@ -1,20 +1,24 @@
 # Spellbook
 
-Prototype development project for a 2.5d isometric spelling slinging adventure game, built in [Unity 2019.3](https://unity.com/releases/2019-3).
+Prototype development project for a 2.5d isometric spelling slinging adventure game, built with [Unity3d](https://unity.com/releases/2019-3).
 
-## Prerequisites & Installation
+## Prerequisites
 
 ```
 Unity Engine Version: 2019.3.13f1
 ```
 
-Download and install [Unity 2019.3](https://unity3d.com/get-unity/download/archive).
+Install [Unity 2019.3](https://unity3d.com/get-unity/download/archive).
 
-Open `/src` as a new project.
+## Running
 
-Open Scene > Play.scene
+1. Open Unity
 
-## Development
+1. Open `/src` as a project
+
+1. Open Scene > Play.scene
+
+## Development Practices
 
 Project organization and structure follows [arreverie Unity3d Best Practices](http://www.arreverie.com/blogs/unity3d-best-practices-folder-structure-source-control/).
 
