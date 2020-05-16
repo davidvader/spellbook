@@ -10,13 +10,11 @@ Unity Engine Version: 2019.3.13f1
 
 Install [Unity 2019.3](https://unity3d.com/get-unity/download/archive).
 
-## Running
+## Run Spellbook
 
-1. Open Unity
+1. From within Unity, Open `/src` directory as an existing project
 
-1. Open `/src` as a project
-
-1. Open Scene > Play.scene
+1. Select `Open Scene` > `Spellbook.scene`
 
 ## Development Practices
 
