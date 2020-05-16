@@ -26,6 +26,6 @@ C# follows style guidelines from [raywenderlich/c-sharp-style-guide](https://git
 
 ### Contributors
 
-DavidVader
+davidvader
 
-CamCouch
+cameroncouch
